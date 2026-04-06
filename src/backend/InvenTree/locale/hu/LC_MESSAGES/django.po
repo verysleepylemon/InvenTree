@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-04 00:50+0000\n"
-"PO-Revision-Date: 2026-04-04 00:53\n"
+"POT-Creation-Date: 2026-04-05 12:53+0000\n"
+"PO-Revision-Date: 2026-04-05 12:56\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -9567,12 +9567,12 @@ msgid "Email address of the user"
 msgstr "A felhasználó e-mail címe"
 
 #: users/serializers.py:309
-msgid "Staff"
-msgstr "Személyzet"
+msgid "Administrator"
+msgstr ""
 
 #: users/serializers.py:310
-msgid "Does this user have staff permissions"
-msgstr "Van-e a felhasználónak személyzeti jogosultsága"
+msgid "Does this user have administrative permissions"
+msgstr ""
 
 #: users/serializers.py:315
 msgid "Superuser"

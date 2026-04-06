@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-04 00:50+0000\n"
-"PO-Revision-Date: 2026-04-04 00:53\n"
+"POT-Creation-Date: 2026-04-05 12:53+0000\n"
+"PO-Revision-Date: 2026-04-05 12:55\n"
 "Last-Translator: \n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -9567,12 +9567,12 @@ msgid "Email address of the user"
 msgstr "E-mailadres van de gebruiker"
 
 #: users/serializers.py:309
-msgid "Staff"
-msgstr "Medewerkers"
+msgid "Administrator"
+msgstr ""
 
 #: users/serializers.py:310
-msgid "Does this user have staff permissions"
-msgstr "Heeft deze gebruiker medewerker machtigingen"
+msgid "Does this user have administrative permissions"
+msgstr ""
 
 #: users/serializers.py:315
 msgid "Superuser"
